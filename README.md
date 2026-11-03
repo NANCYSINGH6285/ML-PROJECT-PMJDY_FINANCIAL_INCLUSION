@@ -10,7 +10,7 @@
 
 ---
 
-## 1. Project Overview
+## 1. Research Project Overview
 
 Financial inclusion is an important part of India's economic development. The Pradhan Mantri Jan-Dhan Yojana (PMJDY) was launched to provide access to financial services, including bank accounts, savings facilities, and RuPay debit cards, to individuals across the country.
 
