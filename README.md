@@ -175,3 +175,8 @@ The findings demonstrate how unsupervised machine learning can be used to explor
 
 This project has been developed as part of academic work for the B.Sc. (Hons.) Computer Science programme at Ramanujan College, University of Delhi.
 
+## 12. Research Paper
+
+"C:\Users\Shivani Singh\Downloads\PMJDY_Research_Paper_Nancy_Singh.docx"
+
+
