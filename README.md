@@ -181,13 +181,13 @@ This project has been developed as part of academic work for the B.Sc. (Hons.) C
 
 ## 13. Author
 
-Nancy singh
+##Nancy singh
 B.Sc(H) Computer Science 
 Ramanujan College,University of Delhi
 
-Project: Machine Learning
-Supervisor: Mr.Nikhil Kumar
-Problem No:- 45
+##Project: Machine Learning
+##Supervisor: Mr.Nikhil Kumar
+##Problem No:- 45
 
 
 
