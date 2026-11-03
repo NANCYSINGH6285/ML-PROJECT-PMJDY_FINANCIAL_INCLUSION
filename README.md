@@ -10,7 +10,7 @@
 
 ---
 
-## 1. Research Project Overview
+## 1. Project Overview
 
 Financial inclusion is an important part of India's economic development. The Pradhan Mantri Jan-Dhan Yojana (PMJDY) was launched to provide access to financial services, including bank accounts, savings facilities, and RuPay debit cards, to individuals across the country.
 
@@ -18,7 +18,7 @@ This project uses **Machine Learning (K-Means Clustering)** to group Indian Stat
 
 The objective is to identify patterns and similarities among states in terms of account uptake, rural participation, average account balance, and RuPay card distribution.
 
-## 2. Objectives
+## 2. Research Objectives
 
 - To study the distribution of PMJDY beneficiaries across Indian States and Union Territories.
 - To examine rural and urban participation in financial inclusion.
